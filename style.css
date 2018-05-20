@@ -19,6 +19,7 @@
     margin-bottom: 100px;
     background-image: url(images/dark.png);
     background-repeat: repeat;
+    line-height: 1.3;
   }
   
   .footer {    
